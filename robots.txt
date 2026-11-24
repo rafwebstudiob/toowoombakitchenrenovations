@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://toowoombakitchenrenovations.com.au/sitemap.xml
